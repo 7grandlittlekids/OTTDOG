@@ -1,4 +1,5 @@
-if game.PlaceId == 90192874177359 then
+if(game.PlaceId == 90192874177359) then
+
 local function Replay()
 local args = {}
 
@@ -7,6 +8,8 @@ warn("REPLAYING")
 end
 
 local EndScreen = game.Players.LocalPlayer.PlayerGui.GameGui.EndScreen.Visible
+
+
 
 if EndScreen == false then
 warn("Game hasnt ended!")
