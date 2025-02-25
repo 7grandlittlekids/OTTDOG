@@ -1,4 +1,4 @@
-if(game.PlaceId == 90192874177359) then
+if game.PlaceId == 90192874177359 then
 local function Replay()
 local args = {}
 
