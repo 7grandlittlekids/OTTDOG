@@ -1,7 +1,7 @@
 if(game.PlaceId == 118688242561353) then
 local function teleportToPosition()
     -- วาร์ปตัวละครไปยังตำแหน่งที่กำหนด
-    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1260.81238, 596.298462, 897.356873)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-280.076996, 633.415466, 755.718994, 0.654158831, -6.47220872e-08, 0.756357193, 1.08048937e-07, 1, -7.87865773e-09, -0.756357193, 8.68774848e-08, 0.654158831)
 end
 
 local function handleElevator()
