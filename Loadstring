@@ -1,4 +1,0 @@
--- put this script in auto execute file : loadstring(game:HttpGet("https://raw.githubusercontent.com/7grandlittlekids/OTTDOG/refs/heads/main/Skip.lua"))()
--- and loadstring(game:HttpGet("https://raw.githubusercontent.com/7grandlittlekids/OTTDOG/refs/heads/main/AutoReplay.lua"))() for autoskip / AutoReplay
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/7grandlittlekids/OTTDOG/refs/heads/main/NewMainScript.lua"))()
